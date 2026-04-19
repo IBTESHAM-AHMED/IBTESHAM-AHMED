@@ -64,8 +64,8 @@ A web project focused on front-end development and responsive design.
 
 ## Let's Connect :handshake:
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"></a>
-|--|--|
+<a href="https://www.linkedin.com/in/shade-xytrex/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:promit5334.drmc@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40"></a>|<a href="https://www.instagram.com/shade_xytrex/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"></a>
+|--|--|--|
 
 <br>
 
