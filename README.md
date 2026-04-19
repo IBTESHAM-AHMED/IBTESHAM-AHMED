@@ -1,9 +1,14 @@
 <h1>Hi There, I'm Ibtesham Ahmed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer / Flutter Developer** based in Malaysia.  
-My work focuses on building **mobile and cross-platform applications** using **Flutter, Firebase, REST APIs, and structured state management**. I enjoy creating scalable, user-focused applications and working on real-world solutions involving app development, system integration, and automation.
+💻 I’m a <b>Software Engineer</b> focused on <b>Flutter, mobile development, and modern web technologies</b>.
 
-I'm open to collaboration on **Flutter**, **mobile app**, and **software engineering** projects.
+🚀 I enjoy creating scalable, user-friendly applications using <b>Flutter, Dart, Firebase, REST APIs, responsive UI principles</b>, and structured development practices such as <b>Clean Architecture</b> and <b>state management</b>. My background also includes <b>JavaScript, Java, SQL, Bootstrap, TailwindCSS</b>, and building <b>reusable components</b> for maintainable applications.
+
+🧠 I’m a curious and fast learner who enjoys exploring new technologies and continuously expanding my skill set. I work well in collaborative environments, take initiative when needed, and am comfortable engaging with clients to better understand requirements and contribute to practical solutions.
+
+🎨 With experience in <b>Figma</b> and interface design, I enjoy turning ideas into polished, functional user experiences.
+
+🤖 My interests include <b>user-focused software engineering, AI, and automation</b>.
 
 ## Skill Set :muscle:
 
