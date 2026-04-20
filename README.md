@@ -47,16 +47,15 @@ A Flutter-based marketplace platform developed for the UTM community, allowing s
 - REST API integration using Dio
 - Features: listings, auctions, cart, wishlist, seller dashboard
 
-### Internship Projects at Synoline Consulting
-Worked on Flutter-based Android applications and supported deployment and maintenance of GuardforceAI robotic systems.
+### Dinorun
+Simple minigame but with some colors and
 
 **Highlights**
 - Developed Android mini-games using Flutter and Flame
 - Implemented responsive UI, animations, collision detection, and state management
 - Supported debugging, maintenance, and deployment for robotics-based client solutions
 
-### Gamer Arena Website
-A web project focused on front-end development and responsive design.
+
 
 <br>
 
