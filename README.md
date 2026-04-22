@@ -16,18 +16,18 @@ These are some of the major technologies I use or have worked with:
 
 **Programming Languages**
 
-<img title="Dart" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
-|--|--|--|--|
+<img title="Dart" alt="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
+|--|--|--|--|--|
 
 **Frameworks and Architecture**
 
-<img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />|<img title="REST API" alt="REST API" width="40px" src="https://img.icons8.com/fluency/48/api-settings.png" />|<img title="BLoC / Cubit" alt="BLoC" width="40px" src="https://img.icons8.com/color/48/workflow.png" />|<img title="Clean Architecture" alt="Clean Architecture" width="40px" src="https://img.icons8.com/color/48/flow-chart.png" />
-|--|--|--|--|--|
+<img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />|<img title="Flame Engine" alt="Flame Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />|<img title="REST API" alt="REST API" width="40px" src="https://img.icons8.com/fluency/48/api-settings.png" />|<img title="BLoC / Cubit" alt="BLoC" width="40px" src="https://img.icons8.com/color/48/workflow.png" />|<img title="Clean Architecture" alt="Clean Architecture" width="40px" src="https://img.icons8.com/color/48/flow-chart.png" />
+|--|--|--|--|--|--|
 
 **Database and Backend Services**
 
-<img title="Firestore" alt="Firestore" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />|<img title="Firebase Auth" alt="Firebase Auth" width="40px" src="https://img.icons8.com/color/48/lock--v1.png" />|<img title="FCM" alt="Firebase Cloud Messaging" width="40px" src="https://img.icons8.com/color/48/appointment-reminders--v1.png" />|<img title="NoSQL" alt="NoSQL" width="40px" src="https://img.icons8.com/color/48/database.png" />
-|--|--|--|--|
+<img title="Firestore" alt="Firestore" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />|<img title="Firebase Auth" alt="Firebase Auth" width="40px" src="https://img.icons8.com/color/48/lock--v1.png" />|<img title="Firebase Cloud Messaging" alt="Firebase Cloud Messaging" width="40px" src="https://img.icons8.com/color/48/appointment-reminders--v1.png" />|<img title="Supabase" alt="Supabase" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png" />|<img title="NoSQL" alt="NoSQL" width="40px" src="https://img.icons8.com/color/48/database.png" />
+|--|--|--|--|--|
 
 **Tools**
 
@@ -48,14 +48,12 @@ A Flutter-based marketplace platform developed for the UTM community, allowing s
 - Features: listings, auctions, cart, wishlist, seller dashboard
 
 ### Dinorun
-Simple minigame but with some colors and
+A simple Flutter mini-game project built with interactive visuals and gameplay elements.
 
 **Highlights**
-- Developed Android mini-games using Flutter and Flame
+- Developed using Flutter and Flame Engine
 - Implemented responsive UI, animations, collision detection, and state management
-- Supported debugging, maintenance, and deployment for robotics-based client solutions
-
-
+- Focused on gameplay mechanics and user interaction
 
 <br>
 
