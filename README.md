@@ -21,8 +21,8 @@ These are some of the major technologies I use or have worked with:
 
 **Frameworks and Architecture**
 
-<img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />|<img title="Flame Engine" alt="Flame Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />|<img title="REST API" alt="REST API" width="40px" src="https://img.icons8.com/fluency/48/api-settings.png" />|<img title="BLoC / Cubit" alt="BLoC" width="40px" src="https://img.icons8.com/color/48/workflow.png" />|<img title="Clean Architecture" alt="Clean Architecture" width="40px" src="https://img.icons8.com/color/48/flow-chart.png" />
-|--|--|--|--|--|--|
+<img title="Flutter" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />|<img title="Firebase" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />|<img title="REST API" alt="REST API" width="40px" src="https://img.icons8.com/fluency/48/api-settings.png" />|<img title="BLoC / Cubit" alt="BLoC" width="40px" src="https://img.icons8.com/color/48/workflow.png" />|<img title="Clean Architecture" alt="Clean Architecture" width="40px" src="https://img.icons8.com/color/48/flow-chart.png" />
+|--|--|--|--|--|
 
 **Database and Backend Services**
 
@@ -51,7 +51,7 @@ A Flutter-based marketplace platform developed for the UTM community, allowing s
 A simple Flutter mini-game project built with interactive visuals and gameplay elements.
 
 **Highlights**
-- Developed using Flutter and Flame Engine
+- Developed using Flutter
 - Implemented responsive UI, animations, collision detection, and state management
 - Focused on gameplay mechanics and user interaction
 
