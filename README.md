@@ -34,28 +34,6 @@ These are some of the major technologies I use or have worked with:
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />|<img title="Android Studio" alt="Android Studio" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/android-studio/android-studio.png" />|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" />
 |--|--|--|--|--|
 
-<br>
-
-## Featured Projects :rocket:
-
-### UTMMart
-A Flutter-based marketplace platform developed for the UTM community, allowing students, lecturers, and staff to buy, sell, and auction second-hand products.
-
-**Highlights**
-- Flutter + Firebase + Firestore + FCM
-- Clean Architecture + BLoC (Cubit)
-- REST API integration using Dio
-- Features: listings, auctions, cart, wishlist, seller dashboard
-
-### Dinorun
-A simple Flutter mini-game project built with interactive visuals and gameplay elements.
-
-**Highlights**
-- Developed using Flutter
-- Implemented responsive UI, animations, collision detection, and state management
-- Focused on gameplay mechanics and user interaction
-
-<br>
 
 ## Some of my stats :bar_chart:
 
